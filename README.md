@@ -1,7 +1,7 @@
 # AWS - ETL - Agent
 ## App Mockup
-![Bulk Data Ingestion Agent](https://github.com/desusmita001/Ollama-Multistack-Models-Text-Image-Video/blob/main/presentation/1.png)
-![Incremental Data Ingestion Agent](https://github.com/desusmita001/Ollama-Multistack-Models-Text-Image-Video/blob/main/presentation/2.png)
+![Bulk Data Ingestion Agent](https://github.com/desusmita001/AWS-ETL-Agent/blob/main/screenshots/1.png)
+![Incremental Data Ingestion Agent](https://github.com/desusmita001/AWS-ETL-Agent/blob/main/screenshots/2.png)
 
 
 ## Credits
